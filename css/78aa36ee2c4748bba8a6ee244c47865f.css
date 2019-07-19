@@ -1,0 +1,12 @@
+﻿@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cardo'), local('Cardo-Regular'), url(../fonts/vji-nu0oq4awnwmtisxb9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Cardo Italic'), local('Cardo-Italic'), url(../fonts/grtkkqvswrqkmujtwzsm7w.ttf) format('truetype');
+}
